@@ -1,0 +1,47 @@
+body {
+    background-color: #393f4d;
+}
+
+.navbar a {
+    font-size: 25px;
+    color: white !important;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background: transparent;
+    color: white !important;
+}
+
+.lead {
+    padding-top: 25px;
+    color: #feda6a !important;
+    font-size: 30px;
+}
+
+.homeimg {
+    width: 250px;
+    border-radius: 50%;
+    padding-top: 25px;
+}
+
+.verticle-center {
+    min-height: 100%;  
+    min-height: 100vh; 
+    display: flex;
+    align-items: center;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 253, 253, 0.75), rgba(255, 255, 255, 0));
+    
+}
+
+.copyright {
+    color: #feda6a;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0;
+}
